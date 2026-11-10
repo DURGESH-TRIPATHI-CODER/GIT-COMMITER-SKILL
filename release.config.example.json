@@ -1,0 +1,7 @@
+{
+  "versionFile": "package.json",
+  "changelogFile": "CHANGELOG.md",
+  "tagPrefix": "v",
+  "defaultBranch": "main",
+  "includePrerelease": false
+}
